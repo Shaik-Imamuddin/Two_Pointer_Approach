@@ -7,3 +7,4 @@ Q04.Check if two sorted arrays are equal (element-wise).
 Q05.Move all zeroes to the end (stable order).
 Q06.Remove all occurrences of a given value (in-place).
 Q07.Separate even and odd numbers (evens first).
+Q08.Remove duplicates from sorted array in-place and return new length.
