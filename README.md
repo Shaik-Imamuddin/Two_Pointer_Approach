@@ -8,4 +8,5 @@ Q05.Move all zeroes to the end (stable order).
 Q06.Remove all occurrences of a given value (in-place).
 Q07.Separate even and odd numbers (evens first).
 Q08.Remove duplicates from sorted array in-place and return new length.
-Q09.Split array into positive and negative numbers (in-place)
+Q09.Split array into positive and negative numbers (in-place).
+Q10.Merge two sorted arrays into one sorted array.
